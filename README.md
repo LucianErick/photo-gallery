@@ -1,3 +1,5 @@
+Projetinho para treinar integração absurdamente facil com o firebase usando o storage
+
 ### Tecnologias e bibliotecas usadas:
 
 - styled components
@@ -19,3 +21,8 @@ yarn start
 ```
 - Por questões de segurança, você precisa criar um arquivo .env com as variáveis de ambiente definidas no arquivo .env.example
 - Para obter essas informações você precisa criar um projeto no firebase e copiar os arquivos de configuração do mesmo.
+
+### Interface:
+![screenshot-localhost-3000-2021-10-21](https://user-images.githubusercontent.com/50140883/138289056-2dfe2e68-ded5-4196-ad8e-a4d794cff772.png)
+
+Uploading photo-gallery.mp4…
